@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d014ad54-f479-4631-9fd6-0d1f0efad0f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Pycharm teste.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d014ad54-f479-4631-9fd6-0d1f0efad0f1" name="Changes" comment="primeiro input" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +28,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.index.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -55,6 +49,27 @@
       <option name="presentableId" value="Default" />
       <updated>1712339812764</updated>
     </task>
+    <task id="LOCAL-00001" summary="primeiro input">
+      <option name="closed" value="true" />
+      <created>1712339934171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712339934171</updated>
+    </task>
+    <task id="LOCAL-00002" summary="primeiro input">
+      <option name="closed" value="true" />
+      <created>1712339961722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712339961722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeiro input" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeiro input" />
   </component>
 </project>
